@@ -50,7 +50,7 @@ And finally add this tag helper any view file in your project like below:
 
 ```
 
-And output will be seems like that:
+And output will look like the following:
 
 ![Imgur Image](https://i.imgur.com/sdTTBjV.png)
 
