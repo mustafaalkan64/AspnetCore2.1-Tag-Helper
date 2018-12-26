@@ -52,6 +52,6 @@ And finally add this tag helper any view file in your project like below:
 
 And output will be seems like that:
 
-<p align="center">
-  <img src="https://imgur.com/a/pTw1IqD" width="350" title="hover text">
-</p>
+![Imgur Image](https://i.imgur.com/sdTTBjV.png)
+
+
